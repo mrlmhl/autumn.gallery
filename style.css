@@ -45,9 +45,13 @@
     border: solid 20px rgb(230, 141, 33);
     border-radius: 10px;
     justify-content: center;
-    
-
+    cursor:zoom-in;
 }
+
+.border:hover{
+    
+}
+
 
 .button{
     padding: 5px;
